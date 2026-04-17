@@ -1,0 +1,1 @@
+In this course, I learned how to use Git and GitHub to manage projects, create branches, and collaborate with others.
